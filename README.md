@@ -146,7 +146,4 @@ After running the pipeline:
 
 ---
 
-## 📩 Contact
 
-Built with ❤️ using Python + mfapi.in  
-Inspired by: [niravtrivedi23/mutual-fund-analysis-Dashboard-Python-PowerBI](https://github.com/niravtrivedi23/mutual-fund-analysis-Dashboard-Python-PowerBI)
