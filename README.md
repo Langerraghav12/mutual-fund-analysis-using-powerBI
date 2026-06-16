@@ -114,15 +114,23 @@ Funds ranked by composite score → Top 30 exported to Excel (2 sheets).
 
 ---
 
-## 🔍 Key Insights (Sample — actual values depend on live data)
+## 🔍 Key Insights
 
 | Insight | Detail |
 |---|---|
-| 💼 Total Schemes Analyzed | 2500+ |
-| ✅ Eligible (1Y return > 0) | ~1800+ |
-| 🏆 Top Ranked Fund | Highest composite scorer |
-| 📈 Best Category (3Y) | Equity funds typically lead |
-| 📉 Lowest Risk Pick | High score + old fund age |
+| 💼 Total Schemes Analyzed | 2,474 |
+| ✅ Eligible (1Y return > 0) | 1,131 funds |
+| 🏆 Top Ranked Fund | Nippon India Growth Mid Cap Fund |
+| 🏆 Top Fund Score | 0.6611 (composite) |
+| 📈 Top Fund 3-Year Return | 82.27% |
+| 🥇 Best 1-Year Return | DBS Chola Opportunities Fund → 102.72% |
+| 🥇 Best 3-Year Return | UTI Healthcare Fund → 94.85% |
+| 🏦 Best Performing AMC | UTI Mutual Fund (avg score: 0.5892) |
+| 📉 Avg 1Y Return (Top 30) | 19.38% |
+| 📉 Avg 3Y Return (Top 30) | 57.62% |
+| ⏳ Avg Fund Age (Top 30) | 19.0 years |
+| 📊 Top Category in Top 30 | Debt Scheme - Liquid Fund (6 funds) |
+
 
 ---
 
